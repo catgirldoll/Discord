@@ -1,7 +1,7 @@
 {
   "name": "TwemojiPink",
-  "description": "A Twemoji palette recolor/fork of the Dracula V2 theme",
-  "version": "V0.1.0",
+  "description": "A dark-ish theme with pink accents, in the Twemoji palette",
+  "version": "V0.1.3",
 
   "authors": [
     {
