@@ -211,19 +211,19 @@
     "DANGER": "#dd2e44",
     "RED_400": "#dd2e44"
   }
-}
-"plus": {
-	"version": 0,
-	"icons": {
-		"ic_new_pins": [
-			"#ef8294",
-			"#ef8294",
-			"#ef8294",
-			"#ef8294"
-		],
-		"emoji": [
-			"#ef8294"
-		]
-	}
-  "unreadBadgeColor": "#be1931"
+  "plus": {
+    "version": 0,
+    "icons": {
+      "ic_new_pins": [
+        "#ef8294",
+        "#ef8294",
+        "#ef8294",
+        "#ef8294"
+      ],
+      "emoji": [
+        "#ef8294"
+      ]
+    }
+    "unreadBadgeColor": "#be1931"
+  }
 }
