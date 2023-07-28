@@ -40,9 +40,9 @@
       "#ea596e"
     ],
     "INTERACTIVE_NORMAL": [
-      "#88c9f9",
+      "#ef8294",
       false,
-      "#88c9f9"
+      "#ef8294"
     ],
     "INTERACTIVE_HOVER": [
       "#f4abba",
@@ -52,7 +52,7 @@
     "INTERACTIVE_ACTIVE": [
       "#f5f8fa",
       false,
-      "#ef8294"
+      "#f4abba"
     ],
     "INTERACTIVE_MUTED": [
       "#b7b7b3",
@@ -210,20 +210,5 @@
     "GREEN_600": "#77b255",
     "DANGER": "#dd2e44",
     "RED_400": "#dd2e44"
-  }
-  "plus": {
-    "version": 0,
-    "icons": {
-      "ic_new_pins": [
-        "#ef8294",
-        "#ef8294",
-        "#ef8294",
-        "#ef8294"
-      ],
-      "emoji": [
-        "#ef8294"
-      ]
-    }
-    "unreadBadgeColor": "#be1931"
   }
 }
