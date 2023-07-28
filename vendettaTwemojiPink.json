@@ -1,7 +1,7 @@
 {
   "name": "TwemojiPink",
   "description": "A dark-ish theme with pink accents, in the Twemoji palette",
-  "version": "V0.1.6",
+  "version": "V0.1.7",
 
   "authors": [
     {
@@ -186,9 +186,9 @@
       "#14171a"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#14171a",
+      "#66757f",
       false,
-      "#31373d"
+      "#66757f"
     ]
   },
   "rawColors": {
