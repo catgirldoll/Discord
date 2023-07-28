@@ -1,0 +1,214 @@
+{
+  "name": "TwemojiPink",
+  "description": "A Twemoji palette recolor/fork of the Dracula V2 theme",
+  "version": "V0.1.0",
+
+  "authors": [
+    {
+      "name": "catgirldoll",
+      "id": "111504638263463936"
+    }
+
+  ],
+
+  "spec": 2,
+
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#ef8294",
+      false,
+      "#ef8294"
+    ],
+    "HEADER_SECONDARY": [
+      "#f5f8fa",
+      false,
+      "#ffffff"
+    ],
+    "TEXT_NORMAL": [
+      "#f5f8fa",
+      false,
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#b7b7b3",
+      false,
+      "#b7b7b3"
+    ],
+    "TEXT_LINK": [
+      "#ef8294",
+      false,
+      "#ea596e"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#88c9f9",
+      false,
+      "#88c9f9"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#f4abba",
+      false,
+      "#f4abba"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#f5f8fa",
+      false,
+      "#ef8294"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#b7b7b3",
+      false,
+      "#e1e8ed"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#31373d",
+      false,
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#31373d",
+      false,
+      "#000000"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#66757f",
+      false,
+      "#31373d"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#31373d",
+      false,
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#ef8294",
+      false,
+      "#ef8294"
+      
+    ],
+    "BACKGROUND_FLOATING": [
+      "#31373d",
+      false,
+      "#31373d"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#31373d",
+      false,
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#66757f",
+      false,
+      "#31373d"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#6272a4",
+      false,
+      "#66757f"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#ea596e",
+      false,
+      "#5a5e77"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#ffb86c",
+      false,
+      "#ffb86c"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#66757f",
+      false,
+      "#31373d"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#6272a4",
+      false,
+      "#5a5e77"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#31373d",
+      false,
+      "#31373d"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#ef8294",
+      false,
+      "#6272a4"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#88c9f9",
+      false,
+      "#88c9f9"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#6272a4",
+      false,
+      "#66757f"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      false,
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#6272a4",
+      false,
+      "#6272a4"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "transparent",
+      false,
+      "transparent"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#6272a4",
+      false,
+      "#6272a4"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#ccd6dd",
+      false,
+      "#f5f8fa"
+    ],
+    "KEYBOARD": [
+      "#66757f",
+      false,
+      "#31373d"
+    ],
+    "CHANNEL_ICON": [
+      "#b7b7b3",
+      false,
+      "#b7b7b3"
+    ],
+    "CHAT_BACKGROUND": [
+      "#31373d",
+      false,
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#14171a",
+      false,
+      "#31373d"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#b7b7b3",
+    "PRIMARY_200": "#66757f",
+    "PRIMARY_300": "#ccd6dd",
+    "PRIMARY_360": "#5dadec",
+    "PRIMARY_400": "#ccd6dd",
+    "PRIMARY_500": "#b7b7b3",
+    "PRIMARY_600": "#31373d",
+    "PRIMARY_630": "#31373d",
+    "PRIMARY_700": "#31373d",
+    "PRIMARY_800": "#31373d",
+    "BRAND_260": "#f5f8fa",
+    "BRAND_500": "#ef8294",
+    "BRAND_900": "#5dadec",
+    "BLUE_345": "#5dadec",
+    "YELLOW_300": "#ffdc5d",
+    "GREEN_600": "#77b255",
+    "DANGER": "#dd2e44",
+    "RED_400": "#dd2e44"
+  }
+}
