@@ -1,7 +1,7 @@
 {
   "name": "TwemojiPink",
   "description": "A dark-ish theme with pink accents, in the Twemoji palette",
-  "version": "V0.1.4",
+  "version": "V0.1.5",
 
   "authors": [
     {
@@ -192,16 +192,16 @@
     ]
   },
   "rawColors": {
-    "PRIMARY_100": "#66757f",
-    "PRIMARY_200": "#66757f",
-    "PRIMARY_300": "#ccd6dd",
+    "PRIMARY_100": "#31373d",
+    "PRIMARY_200": "#31373d",
+    "PRIMARY_300": "#66757f",
     "PRIMARY_360": "#5dadec",
-    "PRIMARY_400": "#ccd6dd",
-    "PRIMARY_500": "#66757f",
-    "PRIMARY_600": "#31373d",
-    "PRIMARY_630": "#31373d",
-    "PRIMARY_700": "#31373d",
-    "PRIMARY_800": "#31373d",
+    "PRIMARY_400": "#66757f",
+    "PRIMARY_500": "#14171a",
+    "PRIMARY_600": "#14171a",
+    "PRIMARY_630": "#14171a",
+    "PRIMARY_700": "#14171a",
+    "PRIMARY_800": "#14171a",
     "BRAND_260": "#f5f8fa",
     "BRAND_500": "#ef8294",
     "BRAND_900": "#5dadec",
