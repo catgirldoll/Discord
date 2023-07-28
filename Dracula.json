@@ -1,7 +1,7 @@
 {
   "name": "TwemojiPink",
   "description": "A Twemoji palette recolor/fork of the Dracula V2 theme",
-  "version": "V0.1.1",
+  "version": "V0.1.0",
 
   "authors": [
     {
@@ -211,4 +211,19 @@
     "DANGER": "#dd2e44",
     "RED_400": "#dd2e44"
   }
+}
+"plus": {
+	"version": 0,
+	"icons": {
+		"ic_new_pins": [
+			"#ef8294",
+			"#ef8294",
+			"#ef8294",
+			"#ef8294"
+		],
+		"emoji": [
+			"#ef8294"
+		]
+	}
+  "unreadBadgeColor": "#be1931"
 }
