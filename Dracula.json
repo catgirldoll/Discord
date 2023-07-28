@@ -1,7 +1,7 @@
 {
   "name": "TwemojiPink",
   "description": "A Twemoji palette recolor/fork of the Dracula V2 theme",
-  "version": "V0.1.0",
+  "version": "V0.1.2",
 
   "authors": [
     {
@@ -62,12 +62,12 @@
     "BACKGROUND_PRIMARY": [
       "#31373d",
       false,
-      "#000000"
+      "#14171a"
     ],
     "BACKGROUND_SECONDARY": [
       "#31373d",
       false,
-      "#000000"
+      "#14171a"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#66757f",
@@ -77,7 +77,7 @@
     "BACKGROUND_TERTIARY": [
       "#31373d",
       false,
-      "#000000"
+      "#14171a"
     ],
     "BACKGROUND_ACCENT": [
       "#ef8294",
@@ -93,7 +93,7 @@
     "BACKGROUND_MOBILE_PRIMARY": [
       "#31373d",
       false,
-      "#000000"
+      "#14171a"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#66757f",
@@ -183,7 +183,7 @@
     "CHAT_BACKGROUND": [
       "#31373d",
       false,
-      "#000000"
+      "#14171a"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#14171a",
